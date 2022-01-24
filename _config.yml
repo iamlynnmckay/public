@@ -1,0 +1,4 @@
+remote_theme: iamlynnmckay/jekyll-theme-iamlynnmckay
+include: 
+  - '_pages'
+  - '_pages/debug'
