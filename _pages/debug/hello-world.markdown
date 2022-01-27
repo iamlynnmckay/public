@@ -7,3 +7,5 @@ tags: debug hello-world
 ---
 
 This page is a test.
+
+![test.jpg](./test.jpg)
